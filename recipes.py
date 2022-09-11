@@ -1,4 +1,5 @@
 # Домашняя работа по теме «Открытие и чтение файла, запись в файл»
+# Часть про рецепты
 
 from pprint import pprint
 from random import choice
